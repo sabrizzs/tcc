@@ -1,8 +1,8 @@
 title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://sabrizzs.github.io/tcc
 
 aux_links:
-  Template Repository: https://sabrizzs.github.io/tcc
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
